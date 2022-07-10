@@ -2,8 +2,6 @@
 - 👀 Estou começando a conhecer o mundo de desenvolvimento de software.
 - 🌱 Atualmente estou desenvolvendo minhas habilidade em Python, Java Script e cursando ensino superior em Ciência da Computação numa Universidade Federal.
 - 💞️ Estou buscando pessoas com quais eu possa trocar ideias e conhecimentos.
-- 📫 Acesse meu Instagram para um contato direto:
-https://www.instagram.com/etsonjr/
 
 <!---
 EtsonJr/EtsonJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
