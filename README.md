@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @EtsonJr
 - 👀 Estou começando a conhecer o mundo de desenvolvimento de software.
-- 🌱 Atualmente estou desenvolvendo minhas habilidade em Python, Java Script e cursando ensino superior em Ciência da Computação numa Universidade Federal.
+- 🌱 Atualmente estou desenvolvendo minhas habilidade em Python, Java Script e cursando ensino superior em Ciência da Computação.
 - 💞️ Estou buscando pessoas com quais eu possa trocar ideias e conhecimentos.
 
 <!---
