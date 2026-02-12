@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Etson Monteiro Jr</h1>
-<h3 align="center">Sou um estudante da graduação em Ciência da Computação e um entusiasta apaixonado por programação</h3>
+<h3 align="center">Sou um estudante da graduação em Ciência da Computação, trabalho atualmente com HelpDesk e sou um entusiasta apaixonado por programação</h3>
 <p align="left">
 </p>
 
